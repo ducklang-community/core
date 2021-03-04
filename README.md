@@ -1,2 +1,3 @@
-# core
-Core library methods for Ducklang
+# Ducklang Core
+
+Core methods for Ducklang programs.
